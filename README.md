@@ -1,3 +1,5 @@
+# **DISCLAIMER: Do not use this to try and cheat Time detecting systems like Wakatime, It will be detected and you WILL be banned! I made this to see if I could.**
+
 # Project Copier
 
 A Python tool for copying projects with state management, resume capability, and VSCode automation support. This tool can copy entire project structures while maintaining state, allowing you to pause and resume the copying process at any time.
